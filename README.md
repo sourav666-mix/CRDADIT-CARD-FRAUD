@@ -66,7 +66,7 @@ The app supports:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
+git clone https://github.com/sourav666-mix/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 ```
 
@@ -252,8 +252,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback, please reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Email**: souravjana6772@gmail.com
+- **GitHub**: [@sourav666-mix](https://github.com/sourav666-mix)
 
 ---
 
